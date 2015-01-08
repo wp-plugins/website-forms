@@ -23,8 +23,6 @@ A 14-day free trial is available on all annual plans, after which pricing starts
 **Also Includes:**
 Website Popups: A tool that makes it easy to create, publish and a/b test pop-ups on your website, blog, or facebook page, using flexible, mobile-responsive templates.
 
-Online Forms: A tool that makes it easy to build, publish and a/b test forms on your website, blog or facebook page, using flexible, mobile-responsive templates.
-
 Landing Pages: A tool that makes it easy to build, publish and a/b test landing pages on your website, blog or facebook page, using flexible, mobile-responsive templates.
 
 [Check out what our customers said about us](http://corp.wishpond.com/reviews/ "Customer Reviews")
