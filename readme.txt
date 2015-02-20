@@ -18,7 +18,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 This plugin lets you create Forms and add them to standalone Wordpress pages or embed them where you like. Get new leads, improve conversion rates, and manage all your forms in one place.
 
 **Free Trial & Pricing**
-A 14-day free trial is available on all annual plans, after which pricing starts at $45/month. You can learn more about our pricing plans [here](http://corp.wishpond.com/pricing-plans/ "Pricing").
+A 14-day free trial is available on all annual plans, after which pricing starts at just $45/month. You can learn more about our pricing plans [here](http://corp.wishpond.com/pricing-plans/ "Pricing").
 
 **Also Includes:**
 Website Popups: A tool that makes it easy to create, publish and a/b test pop-ups on your website, blog, or facebook page, using flexible, mobile-responsive templates.
