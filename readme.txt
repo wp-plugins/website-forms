@@ -15,7 +15,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 > This plugin can be used with the [Ads Campaigns](http://wordpress.org/plugins/ads-campaigns/ "Create Google Adwords and Facebook Ads campaigns with one click") and the [Social Contests](http://wordpress.org/plugins/wishpond-social-campaigns/ "Run social campaigns on wordpress") plugins to generate leads.
 
-This plugin lets you create Forms and add them to standalone Wordpress pages or embed them where you like. Get new leads, improve conversion rates, and manage all your forms in one place.
+Create Forms from your Wordpress site! Add them to Wordpress pages or embed them where you like. Get new leads, improve conversion rates, and manage all your forms in one place.
 
 **Free Trial & Pricing**
 A 14-day free trial is available on all annual plans, after which pricing starts at just $45/month. You can learn more about our pricing plans [here](http://corp.wishpond.com/pricing-plans/ "Pricing").
