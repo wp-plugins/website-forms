@@ -65,7 +65,7 @@ Landing Pages: A tool that makes it easy to build, publish and A/B test landing 
 2. Upload the `website-forms` folder to the `/wp-content/plugins/` directory.
 3. Activate the plugin through the 'Plugins' menu in WordPress.
 4. You will now have a new Forms link in your admin menu.
-5. To create a Form, click the "Add New" link in your wordpress administrator menu, under "Forms", and continue from there. If a login window appears, sign-up or sign in with your e-mail and password.
+5. To create a Form, click the "Add New" link in your Wordpress admin menu, under "Forms", and continue from there. If a login window appears, sign-up or sign in with your e-mail and password.
 
 = Adding to any Website or Wordpress site =
 7. Go to "Forms" to view all your wishpond campaigns which include your forms
