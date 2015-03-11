@@ -20,7 +20,8 @@ Create Forms from your Wordpress site! Add them to Wordpress pages or embed them
 **Free Trial & Pricing**
 A 14-day free trial is available on all annual plans, after which pricing starts at just $45/month. You can learn more about our pricing plans [here](http://corp.wishpond.com/pricing-plans/ "Pricing").
 
-**Also Includes:**
+**Also Includes...**
+
 Website Popups: A tool that makes it easy to create, publish and A/B test pop-ups on your website, blog, or facebook page, using flexible, mobile-responsive templates.
 
 Landing Pages: A tool that makes it easy to build, publish and A/B test landing pages on your website, blog or facebook page, using flexible, mobile-responsive templates.
@@ -86,7 +87,7 @@ When the trial expires you will begin a paid subscription period. If you do not 
 
 The [Facebook Ads](http://wordpress.org/plugins/facebook-ads/ "Create Facebook Ads for your wordpress with one button") plugin doesn't require a subscription and therefore doesn't have a trial.
 
-= Can I use the Wordpress Websie Forms for free? =
+= Can I use the Wordpress Website Forms for free? =
 
 Yes, you can try it completely free for the first 14 days.
 
