@@ -1,6 +1,6 @@
 === Website Forms ===
 Contributors: atajsekandar, cosminatanasiu 
-Tags: easy, easily, create, creator, form creator, forms creator, create forms, SEO, SEO Optimization, page,  post, posts, pages, improve, conversions, improve conversions, online, marketing, plugin, plugins, online marketing, tool, admin, administration, analytics, button, dashboard, integration, social, media, social media, tracking, track, editor, forms editor, forms builder, facebook, like, likes, facebook likes, facebook like, gating, like gating, facebook like gating, facebook, twitter, host, hosting, embed, embedding, embedded, wordpress, images, image, builder, manage, simple, integration, easy, quick, template, templates, form templates, form template, page templates, a/b test, page template, auto, automatic, responsive
+Tags: easy, easily, create, creator, form creator, forms creator, create forms, SEO, SEO Optimization, page,  post, posts, pages, improve, conversions, improve conversions, online, marketing, plugin, plugins, online marketing, tool, admin, administration, analytics, button, dashboard, integration, social, media, social media, tracking, track, editor, forms editor, forms builder, facebook, like, likes, facebook likes, facebook like, gating, like gating, facebook like gating, facebook, twitter, host, hosting, embed, embedding, embedded, wordpress, images, image, builder, manage, simple, integration, easy, quick, template, templates, form templates, form template, page templates, a/b test, page template, auto, automatic, responsive, wysiwyg form
 
 Donate Link: N/A
 Requires at least: 3.0.0
@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-> Create Forms on your wordpress platform in seconds! Use one of our many responsive templates, run A/B tests, promote them with ads and much more.
+> Create Forms on your Wordpress site in seconds! Use one of our many responsive templates, run A/B tests, promote them with ads and much more.
 
 > This plugin can be used with the [Ads Campaigns](http://wordpress.org/plugins/ads-campaigns/ "Create Google Adwords and Facebook Ads campaigns with one click") and the [Social Contests](http://wordpress.org/plugins/wishpond-social-campaigns/ "Run social campaigns on wordpress") plugins to generate leads.
 
